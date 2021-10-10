@@ -359,7 +359,7 @@ nullscan('172.16.111.118', 80)
 
   - nmap复刻
 
-    ![fin_close_nmap](./img5/fin_close_nmap.png)
+    ![null_close_nmap](./img5/null_close_nmap.png)
 
 - 开启状态
 
@@ -442,7 +442,7 @@ udpscan('172.16.111.118', 53)
 
   - 靶机状态设置
 
-  ![udp过滤状态](C:\Users\黄清晓\Desktop\img5\udp过滤状态.png)
+  ![udp过滤状态](./img5/udp过滤状态.png)
 
   - 攻击者主机运行代码
 
